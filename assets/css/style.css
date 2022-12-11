@@ -84,7 +84,7 @@ footer {
     background-position: center;
 }
 
-.provide {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -93,7 +93,7 @@ footer {
     color: #ffffff;
 }
 
-.provide img{
+.services img{
     max-height: 200px;
 }
 
