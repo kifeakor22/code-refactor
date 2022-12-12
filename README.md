@@ -12,7 +12,7 @@ This site is deployed using [GitHub Pages](https://pages.github.com/) at https:/
 
 ## Installation
 
-clone this repository to your local machine and open it using vs code 
+clone this repository to your local machine 
 
 ## Contributing 
 
